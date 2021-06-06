@@ -1,0 +1,5 @@
+rootProject.name = "MyLab5only"
+include ':app'
+include ':accelemetor'
+include ':camera'
+include ':audiorecorder'
